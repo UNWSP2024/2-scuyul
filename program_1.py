@@ -6,7 +6,7 @@ name = "Griffin"
 city = "Eagan"
 state = "MN"
 zipcode = "55124"
-major = "Enginering"
+major = "Engineering"
 phoneNum = "651-260-4296"
 address =(city + space + state + space + zipcode)
 
