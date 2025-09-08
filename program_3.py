@@ -1,3 +1,6 @@
+#By Griffin Corniea 9/8/2025
+#Grocry store purchase calculator
+
 def calculate_total_purchase():
     subtotal = 0
     prices = {

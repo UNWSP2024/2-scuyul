@@ -1,3 +1,5 @@
+#By Griffin Corniea 9/8/2025
+#Age Averager
 
 def average_age():
     age1 = int(input("Friend 1 age: "))

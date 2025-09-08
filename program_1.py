@@ -1,3 +1,6 @@
+#By Griffin Corniea 9/8/2025
+#InfoPrinter
+
 space = " "
 name = "Griffin"
 city = "Eagan"

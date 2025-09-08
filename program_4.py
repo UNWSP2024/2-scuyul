@@ -1,6 +1,10 @@
 # Look at line 17 first.
 # This program introduces a couple new concepts,
 # we'll be covering those in the weeks ahead
+
+#By Griffin Corniea 9/8/2025
+#Temp Converter
+
 from numpy.ma.testutils import fail_if_array_equal
 
 
